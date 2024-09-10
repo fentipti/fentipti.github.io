@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fentipti.github.io/sitemap.html.gz
+Sitemap: https://fentipti.github.io/app/sitemap.html.gz
+Sitemap: https://fentipti.github.io/assets/sitemap.html.gz
+Sitemap: https://fentipti.github.io/css/sitemap.html.gz
+Sitemap: https://fentipti.github.io/includes/sitemap.html.gz
+Sitemap: https://fentipti.github.io/item/sitemap.html.gz
+Sitemap: https://fentipti.github.io/src/sitemap.html.gz
